@@ -9,9 +9,9 @@
   "theme_color": "#0f766e",
   "icons": [
     {
-      "src": "/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "https://kluzar.com/favicon.png",
+      "sizes": "512x445",
+      "type": "image/png",
       "purpose": "any"
     }
   ]
