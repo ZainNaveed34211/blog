@@ -1,7 +1,7 @@
 {
   "name": "Kluzar Blog",
   "short_name": "Kluzar blog",
-  "description": "Original Kluzar articles about getting a business online, SEO basics, site speed, social for small business, reviews and dashboards.",
+  "description": "Original Kluzar articles about getting a business online, SEO basics, site speed, social for business, reviews and dashboards.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
