@@ -1,5 +1,5 @@
 /* Kluzar PWA service worker - cache-first for the front page, network-first for subdomains */
-const CACHE = "kluzar-v2";
+const CACHE = "kluzar-v3";
 const CORE = ["/", "/index.html", "/manifest.webmanifest", "/favicon.svg", "/sitemap.xml", "/robots.txt"];
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(CORE)).then(() => self.skipWaiting()));
